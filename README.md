@@ -1,4 +1,4 @@
-# opendma-demo-alfresco-llamaindex-basics
+# Basic LlamaIndex Alfresco OpenDMA Sample
 
 This repository contains the sample applications for the article
 [Connect LlamaIndex to Alfresco with OpenDMA: Reader, Retriever, and Agent Tools](https://dev.to/stefankopfxaldon/connect-llamaindex-to-alfresco-with-opendma-reader-retriever-and-agent-tools-285b).
